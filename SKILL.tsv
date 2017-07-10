@@ -1,7 +1,7 @@
-SKILL_20150317_000001	Attack
+SKILL_20150317_000001	Ataque
 SKILL_20150317_000002	[Elite Kepa] 1 time, Physical, Poison Property, Strike
 SKILL_20150317_000003	[Rafflesia] Spread Poison
-SKILL_20150317_000004	[Rafflesia] Poison Bomb
+SKILL_20150317_000004	[Rafflesia] Bomba de veneno
 SKILL_20150317_000005	[Raffly] Physical, Strike, Poison Property, Attack 1 time
 SKILL_20150317_000006	[Raffly] Physical, Strike, Poison Property, Jump Attack 1 time
 SKILL_20150317_000007	[Puragi] Physical, Strike, Poison Property, Normal Attack 1 time
@@ -18,10 +18,10 @@ SKILL_20150317_000017	[Fragaras] Quick bite
 SKILL_20150317_000018	[Fragaras] Large Chomp
 SKILL_20150317_000019	[Fragaras] Normal Attack, Conical AoE
 SKILL_20150317_000020	Basic Normal Attack
-SKILL_20150317_000021	[Meduja] Magic, Magic, Lightning Property Attack 1 time
+SKILL_20150317_000021	[Meduja] Magico, Magico, Probabilidade de ataques eletricos 1 vez 
 SKILL_20150317_000022	[Gribaru] Physical, Slash, Lightning Property Attack 1 time
 SKILL_20150317_000023	[Gribaru] Physical, Slash, Lightning Property Knock-back Attack Attack 1 time
-SKILL_20150317_000024	[Bite] Physical, Pierce, Poison Property Attack 1 time,
+SKILL_20150317_000024	[Bite] Fisico, Perfurar, Probabilidade de ataque venenoso 1 vez ,
 SKILL_20150317_000025	[Banshee] Magic, Magic, Ice Property, Breath Attack 1 time
 SKILL_20150317_000026	[Banshee] Magic, Magic, Ice Property, Ice Pike
 SKILL_20150317_000027	[Mini Griba] Physical, Strike, Lightning Property, Two-handed Strike 1 time
@@ -46,7 +46,7 @@ SKILL_20150317_000045	[Sakmoli] Magic, Strike, Ice Property, Normal Attack 1 tim
 SKILL_20150317_000046	[Jukopus] Physical, Strike, Earth Property, Body Slam
 SKILL_20150317_000047	[Jukopus] Physical, Strike, Earth Property, Jump and Body Slam
 SKILL_20150317_000048	[Red Bushspider] Jump and Smash
-SKILL_20150317_000049	[Red Bushspider] Normal Attack, Conical AoE
+SKILL_20150317_000049	[Red Bushspider] Ataque Normal, AoE Conico
 SKILL_20150317_000050	[Baby Dionia] Normal Attack, Conical AoE
 SKILL_20150317_000051	[Mini Griba] Physical, Strike, Poison Property, One Punch
 SKILL_20150317_000052	[Mini Griba] Physical, Strike, Poison Property, One-two Punch
